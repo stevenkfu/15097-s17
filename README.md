@@ -22,7 +22,6 @@
 
 # The following API is available from the Marker Class
 # Marker.GetColor()                  - \return(MarkerType): Enum in constants.py that determines color of marker
-# Marker.GetTurns()                  - \return(int) : Number of turns until this marker decays
 
 # 2) My_Robot 
 #
